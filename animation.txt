@@ -1,0 +1,7 @@
+smooth scroling
+gsap/clamp
+scrolltriger
+
+
+
+here for smooth scroling use -> locomovtive js
